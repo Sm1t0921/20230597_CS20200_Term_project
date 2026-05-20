@@ -19,6 +19,7 @@ dotnet run
 You can choose between two actions: 
 1. Fight
 2. Upgrade
+
 In Fight the menu, you can fight with monsters. If you successfully defeat the monster, you earn Gold.
 In Upgrade menu, you can upgrade your weapon with Gold.
 The Goal is to defeat Lv 5 Monster.
