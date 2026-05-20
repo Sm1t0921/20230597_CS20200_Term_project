@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Qqopg9/5sM=",
+  "success": true,
+  "projectFilePath": "/home/sm1t0921/CS202/20230597_CS20200_Term_project/TermProject.fsproj",
+  "expectedPackageFiles": [
+    "/home/sm1t0921/.nuget/packages/fsharp.core/10.0.107/fsharp.core.10.0.107.nupkg.sha512"
+  ],
+  "logs": []
+}
